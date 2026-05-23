@@ -1,21 +1,22 @@
 <script lang="ts">
-import type ICategoria from './interface/ICategoria';
+import type ICategoria from 'src/components/interface/ICategoria';
 import type { PropType } from 'vue';
 import Tag from './Tag.vue';
-
 
 export default {
     props: {
         categoria: { type: Object as PropType<ICategoria>, required: true }
     },
     components: { Tag }
+
 }
 </script>
 
 <template>
     <article class="categoria">
         <header class="categoria__cabecalho">
-            <img :src="`/imagens/icones/categorias_ingredientes/${categoria.imagem}`" alt="" class="categoria__imagem">
+            <img :src="`/imagens/icones/categorias_ingredientes/${categoria.imagem}`"
+                :alt="`Ícone de ${categoria.nome}`" class="categoria__imagem">
 
             <h2 class="paragrafo-lg categoria__nome">{{ categoria.nome }}</h2>
         </header>
