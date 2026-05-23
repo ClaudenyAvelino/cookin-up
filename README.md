@@ -41,15 +41,15 @@ Clone o repositório
 ```
 git clone https://github.com/seu-usuario/cookin-up.git
 ```
-##Acesse a pasta do projeto
+## Acesse a pasta do projeto
 ```
 cd cookin-up
 ```
-##Instale as dependências
+## Instale as dependências
 ~~~
 npm install
 ~~~
-##Executando o Projeto
+## Executando o Projeto
 
 Para iniciar o servidor de desenvolvimento:
 ~~~
@@ -59,19 +59,19 @@ Após iniciar, acesse no navegador:xhgxghmguyi
 ~~~
 http://localhost:5173
 ~~~ 
-##Build para Produção
+## Build para Produção
    
 Para gerar os arquivos de produção:
 ~~~
 npm run build
 ~~~
-##Funcionalidades
+## Funcionalidades
 Interface responsiva
 Organização por componentes
 Exibição de receitas
 Utilização de assets personalizados
 Estrutura moderna com Vue 3
-##Objetivos de Aprendizado
+## Objetivos de Aprendizado
 
 Este projeto foi desenvolvido para praticar:
 
@@ -80,7 +80,6 @@ Estruturação de aplicações SPA
 Gerenciamento de assets
 Estilização com CSS
 Uso do Vite como ferramenta de build
-##Preview
 
 ## 📸 Preview
 
