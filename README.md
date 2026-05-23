@@ -86,9 +86,15 @@ Uso do Vite como ferramenta de build
 
 ![Tela inicial do projeto](src/assets/images/tela.png)
 
-👨‍💻 Autor
 
-Desenvolvido por Claudeny Avelino.
+## 👨‍🏫 Professor
+
+[<img src="https://avatars.githubusercontent.com/u/79340989?s=400&u=fcfb57bc9a07b8ce0eeae1195e243bb1cb56f6d8&v=4" width="115" alt="Foto de Claudeny Avelino">](https://github.com/ClaudenyAvelino )
+
+**Claudeny Avelino**  
+**E-mail:** `claudeny.avelino@gmail.com`
+
+---
 
 GitHub: https://github.com/ClaudenyAvelino
 LinkedIn: https://linkedin.com/in/claudeny-nivaldo-avelino-093ba669
