@@ -11,6 +11,7 @@
             <p class="subtitulo-lg">
                 Explore novas receitas todos os dias com os ingredientes que estão ao seu alcance!
             </p>
+
         </div>
 
         <img src="../assets/images/foto-banner.png"
