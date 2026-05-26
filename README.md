@@ -17,7 +17,8 @@ LinkedIn: https://linkedin.com/in/claudeny-nivaldo-avelino-093ba669
 
 ## 📸 Preview
 
-![Tela inicial do projeto](src/assets/images/tela.png)
+👉 **Acesse o projeto online:** https://cookin-up-btrq.onrender.com/
+![Tela inicial do projeto](public/imagens/tela.jpeg)
 
 ---
 
