@@ -4,6 +4,10 @@ import type IReceita from '../components/interface/IReceita';
 import BotaoPrincipal from './BotaoPrincipal.vue';
 import CardReceita from './CardReceita.vue';
 
+
+
+
+
 export default {
     data() {
         return {
@@ -45,7 +49,7 @@ export default {
                 Ops, não encontramos resultados para sua combinação. Vamos tentar de novo?
             </p>
 
-            <img src="../assets/imagens/sem-receitas.png"
+            <img src="../assets/images/sem-receitas.png"
                 alt="Desenho de um ovo quebrado. A gema tem um rosto com uma expressão triste.">
         </div>
 
